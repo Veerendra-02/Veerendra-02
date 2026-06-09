@@ -31,5 +31,5 @@
 
 <h3>📫 Contact</h3>
 📧 Email: boyaveerendra02@gmail.com <br>
-🔗 LinkedIn: www.linkedin.com/in/boya-veerendra-ba7707727b <br>
+🔗 LinkedIn: www.linkedin.com/in/boya-veerendra-ba707727b<br>
 📞 Phone: +91 6302983868
